@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"_badGuy","type":"address"}],"name":"addToBlackList","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]

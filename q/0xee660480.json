@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[{"name":"nodeMaster","type":"address"}],"name":"native_get","outputs":[{"name":"","type":"bool"},{"name":"","type":"address"},{"name":"","type":"bytes32"},{"name":"","type":"bool"}],"payable":false,"stateMutability":"view","type":"function"}]

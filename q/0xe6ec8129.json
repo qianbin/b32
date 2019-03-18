@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[{"name":"datasetId","type":"uint8"}],"name":"getPolicies","outputs":[{"name":"","type":"address[]"}],"payable":false,"stateMutability":"view","type":"function"}]

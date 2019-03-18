@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"datasetId","type":"uint8"}],"name":"resetPolicy","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]

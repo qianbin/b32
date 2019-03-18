@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"datasetId","type":"uint8"},{"name":"key","type":"bytes32"},{"name":"newValue","type":"bytes"}],"name":"setBytes","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]

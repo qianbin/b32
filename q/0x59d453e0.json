@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"datasetId","type":"uint8"},{"name":"datasetAddr","type":"address"}],"name":"setDataset","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
